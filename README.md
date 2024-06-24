@@ -1,18 +1,23 @@
 # AtliQ-Business-Insights
-Table Of contents
-Problem Statement:
+
+  About AtliQ
+  Problem Statement
+
+  
+## Problem Statement:
 AtliQ, having grown substantially in recent years, attempted to expand into Latin America based on survey data. This expansion resulted in significant losses due to ineffective decision-making. The strategic goal is to incorporate data analytics for data-driven decision-making and move beyond analysis in Excel files.
 
-Solution:
-During the annual strategic meeting, the decision was made to onboard data analytics capabilities and implement Power BI for comprehensive analysis across various business functions.
+## Solution:
+During the annual strategic meeting, the decision was made to onboard data analytics capabilities and implement Power BI for comprehensive analysis across different parts of AtliQ Hardware's business, such as Finance, Sales, Supply Chain, Executive Management, and Marketing
 
-Objectives:
-Finance View:
+The main goals and key accomplishments for each area are listed below:
 
-Objective: Enhance financial transparency and performance tracking.
-Achievements:
-Implemented fiscal year, quarters, YTD, and YTG filters for dynamic financial reporting.
-Developed KPI cards for Net Sales, GM%, and Net Profit %.
+
+## Finance View:
+
+## Objective: Enhance financial transparency and performance tracking.
+## Achievements:
+1)Implemented fiscal year, quarters, YTD, and YTG filters for dynamic financial reporting. 2)Developed KPI cards for Net Sales, GM%, and Net Profit %.
 Created a performance over time chart to visualize financial trends.
 Constructed a detailed profit and loss statement table.
 Identified top and bottom products and customers by net sales.
