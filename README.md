@@ -24,7 +24,7 @@ During the annual strategic meeting, the decision was made to onboard data analy
 
 ## Sales View:
 ## Objective: 
-Improve sales performance analysis and customer insights.
+- #### Improve sales performance analysis and customer insights.
 ## Achievements:
 - Developed a customer performance table including Net Sales, Gross Margin, and Gross Margin %.
 - Created a product performance table to monitor sales and profitability.
@@ -33,7 +33,7 @@ Improve sales performance analysis and customer insights.
 
 ## Marketing View:
 ## Objective: 
-  ### Optimize marketing strategies and track market performance.
+  - #### Optimize marketing strategies and track market performance.
 ## Achievements:
 - Created a product performance table including Net Sales, Gross Margin, Gross Margin %, Net Profit, and Net Profit %.
 - Developed a region/market/customer performance table with the same metrics.
@@ -42,7 +42,8 @@ Improve sales performance analysis and customer insights.
 
 ## Supply Chain View:
 
-## Objective: Enhance supply chain efficiency and accuracy.
+## Objective: 
+  - #### Enhance supply chain efficiency and accuracy.
 ## Achievements:
 - Developed KPI cards for Forecast Accuracy, Net Error, and ABS Error.
 - Created a performance over time chart for forecast accuracy metrics.
@@ -50,7 +51,8 @@ Improve sales performance analysis and customer insights.
 - Identified top and bottom products and customers by forecast accuracy and related metrics.
 
 ## Executive View:
-## Objective: Provide executives with high-level insights for strategic decision-making.
+## Objective: 
+- #### Provide executives with high-level insights for strategic decision-making.
 ## Achievements:
 - Developed KPI cards for Net Sales, GM%, and Net Profit %.
 - Created key metrics tables by subzone with comprehensive performance metrics.
@@ -61,33 +63,43 @@ Improve sales performance analysis and customer insights.
 
 
 ## Technical Implementation:
-## Power BI Fundamentals:
+### Core Power BI Concepts:
 - Creating Calculated Columns and DAX Measures: Developed complex calculations and measures for accurate data analysis.
 - Data Modelling and Validation: Ensured data integrity and accuracy through robust data modelling techniques.
+- Tables and Matrix Visualizations: Creating a profit and loss statement table and performance matrix to display P&L values and analyze top/bottom products and customers.
 - KPI Indicators: Used KPI indicators to provide quick insights into performance metrics.
 - Bookmarks and Conditional Formatting: Enhanced interactivity and user experience with bookmarks and conditional formatting.
 - Page Navigation with Buttons: Implemented seamless navigation across report pages.
 - Tooltips: Utilized tooltips to provide additional context and save page space.
 - Dynamic Titles: Created dynamic titles based on applied filters for better context.
+- Visualization Techniques: Implementing bar charts or tables to show top/bottom products and customers by net sales.
 - Power BI Services: Published and shared reports online with scheduled automatic refreshes.
 
 ## Tech Stacks:
-SQL: For data extraction and manipulation.
-Power BI Desktop: For report development and visualization.
-DAX Language: For complex calculations and measures.
-DAX Studio: For optimizing file size and performance.
-Business Related Terms:
-Gross Margin, Gross Margin %
-Gross Sales, Gross Sales %
-Pre-invoice Deductions and Post-invoice Deductions
-Net Sales, Net Invoice Sales
-Net Profit and Net Profit %
-COGS (Cost of Goods Sold)
-YTG (Year to Go)
-YTD (Year to Date)
-Direct, Retailer, Consumer, and Distributors
+- SQL: For data extraction and manipulation.
+- Power BI Desktop: For report development and visualization.
+- Excel: For data importing
+- DAX Language: For complex calculations and measures.
+- DAX Studio: For optimizing file size and performance.
+- Project Charter File :Foundational document that guides the project throughout its lifecycle.
+## Business Related Terms:
+
+- Net Sales, Net Invoice Sales
+- Net Profit and Net Profit %
+- Gross Margin, Gross Margin %
+- Gross Sales, Gross Sales %
+- Pre-invoice Deductions and Post-invoice Deductions
+- COGS (Cost of Goods Sold)
+- Net Error and Net Error %
+- Forecast Accuracy and Forecast Accuracy %
+- Revenue Contribution %
+- Market Share
+- YTG (Year to Go)
+- YTD (Year to Date)
+
 
 ## Soft Skills:
-Stakeholder Mapping Analysis: Identifying and managing stakeholders.
-Effective Communication: Regular updates and feedback management.
-Business and Domain Knowledge: Deep understanding of sales, finance, marketing, and supply chain functions.
+- Stakeholder Management: Understanding and working with all involved parties.
+- Presentation Skills: Being able to explain complicated data and findings clearly to stakeholders and management, helping them make informed decisions.
+- Business and Domain Knowledge: Knowing sales, finance, marketing, and supply chain well.
+- Communication: Keeping everyone informed and listening to feedback.
