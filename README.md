@@ -97,6 +97,12 @@ During the annual strategic meeting, the decision was made to onboard data analy
 - YTG (Year to Go)
 - YTD (Year to Date)
 
+### Summary Report
+## Home Page
+![HomePage](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/2fef3260-2201-48eb-8a18-986c81c64ff6)
+![HomePage](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/2fef3260-2201-48eb-8a18-986c81c64ff6)
+![Uploading HomePage.png…]()
+
 
 ## Soft Skills:
 - Stakeholder Management: Understanding and working with all involved parties.
