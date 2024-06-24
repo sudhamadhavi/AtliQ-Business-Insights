@@ -24,7 +24,7 @@ During the annual strategic meeting, the decision was made to onboard data analy
 
 ## Sales View:
 ## Objective: 
-- ### Improve sales performance analysis and customer insights.
+- #### Improve sales performance analysis and customer insights.
 ## Achievements:
 - Developed a customer performance table including Net Sales, Gross Margin, and Gross Margin %.
 - Created a product performance table to monitor sales and profitability.
