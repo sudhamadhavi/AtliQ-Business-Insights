@@ -102,3 +102,5 @@ During the annual strategic meeting, the decision was made to onboard data analy
 - Stakeholder Management: Understanding and working with all involved parties.
 - Presentation Skills: Being able to explain complicated data and findings clearly to stakeholders and management, helping them make informed decisions.
 - Communication: Keeping everyone informed and listening to feedback.
+
+## Summary Report
