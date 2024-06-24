@@ -110,3 +110,15 @@ During the annual strategic meeting, the decision was made to onboard data analy
 ### Finance View
 ![Finance View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/331cba18-77f3-49ac-885c-30cc55aa90f6)
 
+### Sales View
+![Sales View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/e00da187-30d4-468f-831e-65dc2784e08a)
+
+### Marketing View
+![Marketing View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/c6ad9d5c-b04a-457d-98a3-bef9e86220a9)
+
+### Supply Chain View
+![Supply Chain View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/d410f423-d262-44fc-83c0-bed6bbda6bc6)
+
+### Executive View
+![Executive View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/a4c22e47-3e74-4333-8054-20c5aff45f44)
+
