@@ -101,5 +101,4 @@ During the annual strategic meeting, the decision was made to onboard data analy
 ## Soft Skills:
 - Stakeholder Management: Understanding and working with all involved parties.
 - Presentation Skills: Being able to explain complicated data and findings clearly to stakeholders and management, helping them make informed decisions.
-- Business and Domain Knowledge: Knowing sales, finance, marketing, and supply chain well.
 - Communication: Keeping everyone informed and listening to feedback.
