@@ -104,6 +104,9 @@ During the annual strategic meeting, the decision was made to onboard data analy
 
 ### Summary Report:
 
-###Home Page
+### Home Page
 ![HomePage](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/2fef3260-2201-48eb-8a18-986c81c64ff6)
+
+### Finance View
+![Finance View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/331cba18-77f3-49ac-885c-30cc55aa90f6)
 
