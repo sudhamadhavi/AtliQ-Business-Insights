@@ -1,6 +1,6 @@
 # AtliQ-Business-Insights
 
---- https://app.powerbi.com/view?r=eyJrIjoiYzNjYWZmYzItNDA2OS00YzQ1LWEzNTMtZjk5ZjM2YmUzZTkzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9  
+Live Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzNjYWZmYzItNDA2OS00YzQ1LWEzNTMtZjk5ZjM2YmUzZTkzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9  
 
 ## About AtliQ:
 AtliQ Hardware, a major computer and accessories company, sells globally through retailers and direct distributors. They grew a lot in recent years and tried to expand into Latin America by opening their own store, but it resulted in a huge loss. This happened because they made decisions based on surveys and basic Excel analysis. This showed the need for a dedicated analytics team to guide the company with data-driven insights and decisions.
