@@ -105,20 +105,21 @@ During the annual strategic meeting, the decision was made to onboard data analy
 ### Summary Report:
 
 ### Home Page
-![HomePage](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/2fef3260-2201-48eb-8a18-986c81c64ff6)
-
+![Home Page](https://github.com/user-attachments/assets/32679822-0177-4d0c-b5a1-867677ccd7a4)
 ### Finance View
-![Finance View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/331cba18-77f3-49ac-885c-30cc55aa90f6)
-
+![Finance View](https://github.com/user-attachments/assets/4253f5f9-c825-42c7-8223-57900df52469)
 ### Sales View
-![Sales View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/e00da187-30d4-468f-831e-65dc2784e08a)
+![Sales View](https://github.com/user-attachments/assets/592ad7ca-9e02-48b8-976a-9d5b8608f400)
 
 ### Marketing View
-![Marketing View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/c6ad9d5c-b04a-457d-98a3-bef9e86220a9)
+![Marketing View](https://github.com/user-attachments/assets/a11bc27f-38ad-40eb-b031-bb8833b6a3b0)
+
 
 ### Supply Chain View
-![Supply Chain View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/d410f423-d262-44fc-83c0-bed6bbda6bc6)
+![Supply Chain View](https://github.com/user-attachments/assets/b4f24370-bd42-4275-b175-7c4a13ccef2c)
+
 
 ### Executive View
-![Executive View](https://github.com/sudhamadhavi/AtliQ-Business-Insights/assets/19885678/a4c22e47-3e74-4333-8054-20c5aff45f44)
+
+![Executive View](https://github.com/user-attachments/assets/65657864-6308-42a1-85d6-6d5796f503a2)
 
